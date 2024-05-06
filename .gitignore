@@ -1,1 +1,3 @@
 SampleInputs/*.fastq*
+SampleInputs/fastqc/
+.DS_Store
